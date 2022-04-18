@@ -92,3 +92,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Moving Average On Differenced Time Series
 
 ![iamge](images/22.png)
+
+## Restoring The Trend And Seasonality
+
+![image](images/23.png)
