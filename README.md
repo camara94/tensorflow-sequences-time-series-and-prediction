@@ -70,3 +70,5 @@ It is order of sequence of values that are usuelly equaly space of time.
 ![image](images/16.png)
 
 ## Roll-Forward Partitioning
+
+![image](images/17.png)
