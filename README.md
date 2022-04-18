@@ -32,3 +32,5 @@ It is order of sequence of values that are usuelly equaly space of time.
 ![image](images/6.png)
 
 ![image](images/7.png)
+
+![image](images/8.png)
