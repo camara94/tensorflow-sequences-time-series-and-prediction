@@ -12,3 +12,5 @@ In this fourth course, you will learn how to build time series models in TensorF
 ## Weathers Forecast
 
 ![image](images/2.png)
+
+## Historical Trend
