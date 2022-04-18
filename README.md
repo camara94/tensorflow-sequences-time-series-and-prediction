@@ -64,3 +64,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 1. Other option is to analyze **time series** to spot of find a pattern what generate the serie itself.
 
 ![image](images/15.png)
+
+## Fixed Partitioning
+
+![image](images/16.png)
