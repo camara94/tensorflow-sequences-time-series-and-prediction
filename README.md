@@ -68,3 +68,5 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Fixed Partitioning
 
 ![image](images/16.png)
+
+## Roll-Forward Partitioning
