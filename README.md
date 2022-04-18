@@ -49,3 +49,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 
 ![image](images/11.png)
 
+2. Projection back on to the time
+
+![image](images/12.png)
+
