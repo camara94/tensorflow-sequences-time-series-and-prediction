@@ -76,3 +76,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Metrics
 
 ![image](images/18.png)
+
+## Naive Forecast MAE
+
+![iamge](images/19.png)
