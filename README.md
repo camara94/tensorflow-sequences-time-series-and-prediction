@@ -53,3 +53,6 @@ It is order of sequence of values that are usuelly equaly space of time.
 
 ![image](images/12.png)
 
+3. How is your data base on others data
+
+![image](images/13.png)
