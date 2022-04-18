@@ -5,4 +5,6 @@ In this fourth course, you will learn how to build time series models in TensorF
 
 ## Where There Are Look At Time Series
 
+![image](images/1.png)
+
 ## Soft Prices
