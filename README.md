@@ -56,3 +56,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 3. How is your data base on others data
 
 ![image](images/13.png)
+
+4. Time Series can be use to detected anormaly: for exapmple on **web site log** we can to see what is the problem.
+
+![image](images/14.png)
