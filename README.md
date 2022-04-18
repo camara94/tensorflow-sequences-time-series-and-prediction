@@ -88,3 +88,5 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Differencing
 
 ![image](images/21.png)
+
+## 
