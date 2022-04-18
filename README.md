@@ -14,3 +14,5 @@ In this fourth course, you will learn how to build time series models in TensorF
 ![image](images/2.png)
 
 ## Historical Trend
+
+![image](images/3.png)
