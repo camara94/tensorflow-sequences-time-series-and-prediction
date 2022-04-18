@@ -23,4 +23,6 @@ In this fourth course, you will learn how to build time series models in TensorF
 
 It is order of sequence of values that are usuelly equaly space of time.
 
+## Univariate Time Series
+
 ![image](images/5.png)
