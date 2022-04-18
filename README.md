@@ -84,3 +84,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Moving Average
 
 ![image](images/20.png)
+
+## Differencing
+
+![image](images/21.png)
