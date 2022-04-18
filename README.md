@@ -42,3 +42,10 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Directional Of The Car Of The Univariate
 
 ![image](images/10.png)
+
+## What Kind Of Thing Can We Do With Time Series
+
+1. Prediction Of The Forecasting Base of the data.
+
+![image](images/11.png)
+
