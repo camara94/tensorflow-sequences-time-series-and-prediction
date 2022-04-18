@@ -96,3 +96,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Restoring The Trend And Seasonality
 
 ![image](images/23.png)
+
+## Smooting Both Past And Present Values
+
+![image](images/24.png)
