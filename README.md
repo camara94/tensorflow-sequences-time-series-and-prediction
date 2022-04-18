@@ -80,3 +80,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Naive Forecast MAE
 
 ![iamge](images/19.png)
+
+## Moving Average
+
+![image](images/20.png)
