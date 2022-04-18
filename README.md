@@ -39,3 +39,6 @@ It is order of sequence of values that are usuelly equaly space of time.
 
 ![image](images/9.png)
 
+## Directional Of The Car Of The Univariate
+
+![image](images/10.png)
