@@ -120,3 +120,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Split the data into features and label
 
 ![image](images/29.png)
+
+## Shuffle Method
+
+![image](images/30.png)
