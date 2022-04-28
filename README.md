@@ -116,3 +116,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Numpy Method
 
 ![image](images/28.png)
+
+## Split the data into features and label
+
+![image](images/29.png)
