@@ -102,3 +102,5 @@ It is order of sequence of values that are usuelly equaly space of time.
 ![image](images/24.png)
 
 ## Preparing features and labels
+
+![image](images/25.png)
