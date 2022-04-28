@@ -124,3 +124,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Shuffle Method
 
 ![image](images/30.png)
+
+## Batch Method
+
+![image](images/31.png)
