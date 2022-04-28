@@ -104,3 +104,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Preparing features and labels
 
 ![image](images/25.png)
+
+## Window Method
+
+![image](images/26.png)
