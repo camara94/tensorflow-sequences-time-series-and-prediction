@@ -138,3 +138,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Split Data
 
 ![image](images/33.png)
+
+## Simple Linear Regression
+
+![image](images/34.png)
