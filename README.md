@@ -176,3 +176,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Callbacks
 
 ![image](images/43.png)
+
+## Plot loss
+
+![image](images/44.png)
