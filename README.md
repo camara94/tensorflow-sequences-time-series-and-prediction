@@ -154,3 +154,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Predict
 
 ![image](images/37.png)
+
+## Plot A forecast
+
+![image](images/38.png)
