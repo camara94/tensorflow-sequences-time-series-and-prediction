@@ -174,3 +174,5 @@ It is order of sequence of values that are usuelly equaly space of time.
 ![image](images/42.png)
 
 ## Callbacks
+
+![image](images/43.png)
