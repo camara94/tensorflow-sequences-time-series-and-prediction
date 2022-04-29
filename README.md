@@ -132,3 +132,9 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Feeding windowed dataset into neural network
 
 ![image](images/32.png)
+
+## Single layer neural network
+
+## Split Data
+
+![image](images/33.png)
