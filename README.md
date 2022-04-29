@@ -164,3 +164,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Measure MSE
 
 ![image](images/40.png)
+
+## Deep neural network training, tuning and prediction
+
+![image](images/41.png)
