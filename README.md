@@ -142,3 +142,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Simple Linear Regression
 
 ![image](images/34.png)
+
+## Compile The Model
+
+![image](images/35.png)
