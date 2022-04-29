@@ -168,3 +168,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Deep neural network training, tuning and prediction
 
 ![image](images/41.png)
+
+## MSE
+
+![image](images/42.png)
