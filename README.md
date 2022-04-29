@@ -158,3 +158,5 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Plot A forecast
 
 ![image](images/38.png)
+
+![image](images/39.png)
