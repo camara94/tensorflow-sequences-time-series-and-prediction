@@ -190,3 +190,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Sequence to vector
 
 ![image](images/48.png)
+
+## In Practise
+
+![image](images/49.png)
