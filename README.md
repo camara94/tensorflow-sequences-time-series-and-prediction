@@ -218,3 +218,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Sell State
 
 ![image](images/56.png)
+
+## Bi Directional Cell State
+
+![image](images/57.png)
