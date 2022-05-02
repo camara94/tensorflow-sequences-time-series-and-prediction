@@ -222,3 +222,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Bi Directional Cell State
 
 ![image](images/57.png)
+
+## Example of code LSTM
+
+![image](images/58.png)
