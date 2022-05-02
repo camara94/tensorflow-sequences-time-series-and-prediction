@@ -195,4 +195,4 @@ It is order of sequence of values that are usuelly equaly space of time.
 
 ![image](images/49.png)
 
-![image](images/50.png)
+![image](images/51.png)
