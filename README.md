@@ -214,3 +214,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 * [https://en.wikipedia.org/wiki/Huber_loss](https://en.wikipedia.org/wiki/Huber_loss)
 
 ## LSTM
+
+## Sell State
+
+![image](images/56.png)
