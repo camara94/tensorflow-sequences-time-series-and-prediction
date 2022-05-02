@@ -180,3 +180,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Plot loss
 
 ![image](images/44.png)
+
+## Recurrent Layer
+
+![image](images/46.png)
