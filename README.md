@@ -186,3 +186,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ![image](images/46.png)
 
 ![image](images/47.png)
+
+## Sequence to vector
+
+![image](images/48.png)
