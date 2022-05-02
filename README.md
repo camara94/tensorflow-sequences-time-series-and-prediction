@@ -205,3 +205,6 @@ It is order of sequence of values that are usuelly equaly space of time.
 
 ![image](images/53.png)
 
+## Full RNN Code
+
+![image](images/54.png)
