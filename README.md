@@ -208,3 +208,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Full RNN Code
 
 ![image](images/55.png)
+
+## Useful Link
+
+* [https://en.wikipedia.org/wiki/Huber_loss](https://en.wikipedia.org/wiki/Huber_loss)
