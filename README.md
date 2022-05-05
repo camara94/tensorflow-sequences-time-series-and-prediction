@@ -279,3 +279,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ![image](images/70.png)
 
 ![image](images/71.png)
+
+## Improve Accuracy
+
+![image](images/72.png)
