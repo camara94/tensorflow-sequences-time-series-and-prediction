@@ -288,3 +288,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 
 ![image](images/73.png)
 ![image](images/74.png)
+
+## Improving RNN Layers
+
+![image](images/75.png)
