@@ -226,3 +226,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Example of code LSTM
 
 ![image](images/58.png)
+
+## Convolution
+
+![image](images/59.png)
