@@ -263,3 +263,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Split Data
 
 ![image](images/66.png)
+
+## Window Dataset
+
+![image](images/67.png)
