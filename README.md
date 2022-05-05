@@ -255,3 +255,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## How To Read Data
 
 ![image](images/64.png)
+
+## Convert List To Series
+
+![image](images/65.png)
