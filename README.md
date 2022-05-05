@@ -234,3 +234,8 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Set Windows
 
 ![image](images/60.png)
+
+
+## Bi-directional LSTM
+
+![image](images/61.png)
