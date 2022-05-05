@@ -239,3 +239,5 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Bi-directional LSTM
 
 ![image](images/61.png)
+
+## More About Bi-direction LSTM
