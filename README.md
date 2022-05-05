@@ -287,3 +287,4 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Time Series Prediction RNN
 
 ![image](images/73.png)
+![image](images/74.png)
