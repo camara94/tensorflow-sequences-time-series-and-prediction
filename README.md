@@ -269,3 +269,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Window Dataset
 
 ![image](images/67.png)
+
+## Simple DNN
+
+![image](images/68.png)
