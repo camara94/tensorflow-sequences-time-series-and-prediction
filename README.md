@@ -243,3 +243,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## More About Bi-direction LSTM
 
 ![image](images/62.png)
+
+## More About Optimization Algorithm
+
+* [https://www.youtube.com/watch?v=4qJaSmvhxi8](https://www.youtube.com/watch?v=4qJaSmvhxi8)
