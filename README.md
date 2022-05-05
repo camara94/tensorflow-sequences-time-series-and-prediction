@@ -230,3 +230,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Convolution
 
 ![image](images/59.png)
+
+## Set Windows
+
+![image](images/60.png)
