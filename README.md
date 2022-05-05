@@ -283,3 +283,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Improve Accuracy
 
 ![image](images/72.png)
+
+## Time Series Prediction RNN
+
+![image](images/73.png)
