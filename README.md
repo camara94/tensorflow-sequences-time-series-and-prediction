@@ -292,3 +292,10 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Improving RNN Layers
 
 ![image](images/75.png)
+
+-----------------------------------
+
+## What next?
+
+* [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1CourseItem)
+* [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1CourseItem)
