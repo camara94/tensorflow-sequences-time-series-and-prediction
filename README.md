@@ -259,3 +259,7 @@ It is order of sequence of values that are usuelly equaly space of time.
 ## Convert List To Series
 
 ![image](images/65.png)
+
+## Split Data
+
+![image](images/66.png)
