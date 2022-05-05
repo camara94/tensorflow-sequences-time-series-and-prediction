@@ -248,6 +248,8 @@ It is order of sequence of values that are usuelly equaly space of time.
 
 * [https://www.youtube.com/watch?v=4qJaSmvhxi8](https://www.youtube.com/watch?v=4qJaSmvhxi8)
 
+----------------------------------------
+
 ## Real World Data
 
 ![image](images/63.png)
